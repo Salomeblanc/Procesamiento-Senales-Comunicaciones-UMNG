@@ -1,4 +1,4 @@
-# Procesamiento-Senales-Comunicaciones-UMNG
+# Procesamiento-Señales-Comunicaciones-UMNG
 Repositorio correspondiente al laboratorio de **análisis, síntesis y visualización de señales** de la asignatura de Comunicaciones.
 
 En este laboratorio se trabajaron diferentes señales periódicas y se analizaron tanto en el **dominio del tiempo** como en el **dominio de la frecuencia**, utilizando el osciloscopio y MATLAB. También se realizó la comparación entre los resultados experimentales y los resultados obtenidos mediante procesamiento computacional.
