@@ -4,7 +4,6 @@ Repositorio correspondiente al laboratorio de **análisis, síntesis y visualiza
 En este laboratorio se trabajaron diferentes señales periódicas y se analizaron tanto en el **dominio del tiempo** como en el **dominio de la frecuencia**, utilizando el osciloscopio y MATLAB. También se realizó la comparación entre los resultados experimentales y los resultados obtenidos mediante procesamiento computacional.
 
 ## Contenido del repositorio
-
 La carpeta `analisis de señales` contiene los archivos correspondientes a las diferentes señales trabajadas durante el laboratorio:
 
 - `primera señal`
@@ -18,10 +17,9 @@ La carpeta `analisis de señales` contiene los archivos correspondientes a las d
 - `novena señal`
 - `decima señal`
 
+Dentro de estas carpetas se encuentran los archivos CSV, códigos de MATLAB, capturas del osciloscopio y resultados gráficos correspondientes a cada señal.
 
-Dentro de estas carpetas se encuentran los **archivos CSV, códigos de MATLAB, capturas del osciloscopio y resultados gráficos** correspondientes a cada señal.
-
-También se incluye el **informe final del laboratorio**, donde se presenta el desarrollo de la práctica, los resultados obtenidos, el análisis de las señales y las conclusiones.
+También se incluye el informe final del laboratorio, donde se presenta el desarrollo de la práctica, los resultados obtenidos, el análisis de las señales y las conclusiones.
 
 ## Herramientas utilizadas
 
@@ -31,4 +29,4 @@ También se incluye el **informe final del laboratorio**, donde se presenta el d
 
 ## Informe
 
-El informe contiene la documentación completa del laboratorio, incluyendo las mediciones realizadas, el análisis en el dominio del tiempo y frecuencia, la comparación entre osciloscopio y MATLAB, el análisis de resultados y las conclusiones.
+El informe final contiene la documentación completa del laboratorio, incluyendo las mediciones realizadas, el análisis en el dominio del tiempo y la frecuencia, la comparación entre los resultados del osciloscopio y MATLAB, el análisis de resultados y las conclusiones.
